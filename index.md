@@ -288,7 +288,9 @@ My Google Scholar Profile</a></li>
               <li>
                 <strong>Co-authors to other publication under DRDC, 2026.   
             </li> 
-                <h3>Articles Submitted</h3>
+        </ul>
+           
+           <h3>Articles Submitted</h3>
         <ul class="publication-list">
             <li>
                 <strong>Ladouceur, R.</strong>, Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure: An Empirical Study. Submitted to <em>ACM Transactions on Social Computing (TSC)</em>, April 15th.
