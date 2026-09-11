@@ -271,7 +271,7 @@ My Google Scholar Profile</a></li>
         <h2>Research Interests</h2>
         <hr>
         <ul class="custom-list">
-            <li>Disinformation Analysis: I investigate how misleading or manipulative content circulates across digital platforms by analyzing linguistic cues, rhetorical strategies, and contextual signals embedded in messages (e.g.: emojis).  </li>
+            <li>Disinformation Analysis: I investigate how misleading or manipulative content circulates across digital platforms by analyzing linguistic cues, rhetorical strategies, and contextual signals embedded in messages.  </li>
             <li>Narrative-level disinformation patterns: I study disinformation as a narrative phenomenon, examining how falsehoods propagate through recurring themes, interpretive frames, and discursive patterns rather than isolated messages.</li>
             <li>Large Language Models for Narrative Detection: I explore how LLMs can be used to detect, cluster, and interpret disinformation narratives. My research compares multiple LLM models to assess their ability to identify narrative patterns. </li>
         </ul>
@@ -280,17 +280,17 @@ My Google Scholar Profile</a></li>
         <h2 id="publications">Publications</h2>
         <hr>
 
-            <h3>Scientific reports classified under DRDC</h3>
+        <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
             <li>
                 <strong>Ladouceur, R. and other co-authors. Classified scientific reports cannot be published, 2026.
-             </li>   
-              <li>
+            </li>   
+            <li>
                 <strong>Co-authors to other publication under DRDC, 2026.   
             </li> 
         </ul>
            
-           <h3>Articles Submitted</h3>
+        <h3>Articles Submitted</h3>
         <ul class="publication-list">
             <li>
                 <strong>Ladouceur, R.</strong>, Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure: An Empirical Study. Submitted to <em>ACM Transactions on Social Computing (TSC)</em>, April 15th.
