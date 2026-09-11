@@ -264,7 +264,7 @@ My Google Scholar Profile</a></li>
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, PhD, CPA, CISA.. Her work examines the effectiveness of large language models (LLMs) in clustering, classifying messages into narratives analysis. She works part-time at the National Defence Research Centre.
+            Rachel Ladouceur, PhD, CPA, CISA. Her work examines the effectiveness of large language models (LLMs) in clustering, classifying messages into narratives analysis. She works part-time at the National Defence Research Centre.
         </p>
 
         <!-- Research Interests Section -->
@@ -280,14 +280,14 @@ My Google Scholar Profile</a></li>
         <h2 id="publications">Publications</h2>
         <hr>
 
-        <h3>Scientific reports classified under DRDC</h3>
+            <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
             <li>
                 <strong>Ladouceur, R. and other co-authors. Classified scientific reports cannot be published, 2026.
              </li>   
               <li>
                 <strong>Co-authors to other publication under DRDC, 2026.   
-                
+            </li> 
                 <h3>Articles Submitted</h3>
         <ul class="publication-list">
             <li>
