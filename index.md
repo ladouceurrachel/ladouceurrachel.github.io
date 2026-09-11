@@ -258,13 +258,13 @@ My Google Scholar Profile</a></li>
     <div class="main-content">
         
         <h1>Rachel Ladouceur</h1>
-        <div class="subtitle">PhD Candidate | Academic Lecturer | CPA, CISA</div>
+        <div class="subtitle">PhD  | Academic Lecturer | CPA, CISA</div>
         
         <!-- About Me Section -->
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada since 2022. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time at the National Defence Research Centre.
+            Rachel Ladouceur, PhD, CPA, CISA.. Her work examines the effectiveness of large language models (LLMs) in clustering, classifying messages into narratives analysis. She works part-time at the National Defence Research Centre.
         </p>
 
         <!-- Research Interests Section -->
@@ -280,7 +280,15 @@ My Google Scholar Profile</a></li>
         <h2 id="publications">Publications</h2>
         <hr>
 
-        <h3>Articles Submitted</h3>
+        <h3>Scientific reports classified under DRDC</h3>
+        <ul class="publication-list">
+            <li>
+                <strong>Ladouceur, R. and other co-authors. Classified scientific reports cannot be published, 2026.
+             </li>   
+              <li>
+                <strong>Co-authors to other publication under DRDC, 2026.   
+                
+                <h3>Articles Submitted</h3>
         <ul class="publication-list">
             <li>
                 <strong>Ladouceur, R.</strong>, Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure: An Empirical Study. Submitted to <em>ACM Transactions on Social Computing (TSC)</em>, April 15th.
@@ -324,6 +332,11 @@ My Google Scholar Profile</a></li>
         </p>
 
         <ul class="teaching-list">
+            <li>
+                <strong>Support to student for the final project in cybersecurity</strong> <br>
+                <em>Université de technologie d’Haïti</em> | Automn 2026 (Current) <br>
+                5 projects of 10 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
+            </li>
             <li>
                 <strong>GCGR2010 — Security Governance and Risk Management</strong> <br>
                 <em>Université de technologie d’Haïti</em> | Spring 2026 (Current) <br>
