@@ -283,10 +283,10 @@ My Google Scholar Profile</a></li>
         <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
             <li>
-                <strong>Ladouceur, R. and other co-authors. Classified scientific reports cannot be published, 2026.
+                <strong>Ladouceur, R. </strong> and other co-authors. Classified scientific reports cannot be published, 2026.
             </li>   
             <li>
-                <strong>Co-authors to other publication under DRDC, 2026.   
+                <strong>Co-authors </strong> to other publications under DRDC, 2026.   
             </li> 
         </ul>
            
