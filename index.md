@@ -286,7 +286,7 @@ My Google Scholar Profile</a></li>
                 <strong>Ladouceur, R. </strong> et al. (2026). Comparison between topic modelling tools and LLMs for narrative analysis. Defence Research and Development Canada (DRDC). Classified report; title unclassified.
             </li>   
             <li>
-                <strong>Co-authors </strong> to other publications under DRDC, 2026.   
+                <strong>Co-authors of two articles </strong> to other publications under DRDC, 2026.   
             </li> 
         </ul>
            
