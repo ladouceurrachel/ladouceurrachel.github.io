@@ -264,7 +264,7 @@ My Google Scholar Profile</a></li>
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, PhD, CPA, CISA, is a researcher, lecturer, and professional specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time at the Université de technologie d'Haïti (UNITECH).
+            Rachel Ladouceur, PhD, CPA, CISA, is a researcher, lecturer, and professional specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time since 2022 (UQAC, Unitech Haïti).
         </p>
 
         <!-- Research Interests Section -->
