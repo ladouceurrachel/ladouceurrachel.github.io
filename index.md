@@ -330,7 +330,7 @@ My Google Scholar Profile</a></li>
         <h2 id="teaching">Teaching</h2>
         <hr>
         <p>
-            Alongside my doctoral studies, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. 
+            Alongside my doctoral studies and professional work, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. 
         </p>
 
         <ul class="teaching-list">
