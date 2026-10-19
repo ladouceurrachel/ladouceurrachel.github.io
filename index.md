@@ -264,7 +264,7 @@ My Google Scholar Profile</a></li>
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, PhD, CPA, CISA. Her work examines the effectiveness of large language models (LLMs) in clustering, classifying messages into narratives analysis. She works part-time at the National Defence Research Centre.
+            Rachel Ladouceur, PhD, CPA, CISA, is a researcher, lecturer, and professional specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time at the Université de technologie d'Haïti (UNITECH).
         </p>
 
         <!-- Research Interests Section -->
@@ -283,7 +283,7 @@ My Google Scholar Profile</a></li>
         <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
             <li>
-                <strong>Ladouceur, R. </strong> and other co-authors. Classified scientific reports cannot be published, 2026.
+                <strong>Ladouceur, R. </strong> et al. (2026). Comparison between topic modelling tools and LLMs for narrative analysis. Defence Research and Development Canada (DRDC). Classified report; title unclassified.
             </li>   
             <li>
                 <strong>Co-authors </strong> to other publications under DRDC, 2026.   
