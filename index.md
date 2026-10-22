@@ -271,9 +271,11 @@ My Google Scholar Profile</a></li>
         <h2>Research Interests</h2>
         <hr>
         <ul class="custom-list">
-            <li>Disinformation Analysis: I investigate how misleading or manipulative content circulates across digital platforms by analyzing linguistic cues, rhetorical strategies, and contextual signals embedded in messages.  </li>
-          
-            <li>Large Language Models for Narrative analysis: clustering, classification, time-series analysis of social media messages to identify emerging trends. </li>
+            <li>Foreign Information Manipulation and Interference (FIMI):** at Defence Research and Development Canada (DRDC), I use large language models to detect FIMI, with a focus on coordinated manipulative behaviour. I combine narrative analysis, time-series analysis, and the study of actors and behaviors to support strategic decision-making.
+            </li>   
+            <li>
+            LLMs for narrative analysis:** clustering and classifying social media messages, and identifying emerging trends.. </li>
+            </li> 
         </ul>
 
         <!-- Publications Section -->
