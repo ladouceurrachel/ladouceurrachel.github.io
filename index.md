@@ -273,12 +273,12 @@ My Google Scholar Profile</a></li>
         <ul class="custom-list">
             <li>Disinformation Analysis: I investigate how misleading or manipulative content circulates across digital platforms by analyzing linguistic cues, rhetorical strategies, and contextual signals embedded in messages.  </li>
             <li>Narrative-level disinformation patterns: I study disinformation as a narrative phenomenon, examining how falsehoods propagate through recurring themes, interpretive frames, and discursive patterns rather than isolated messages.</li>
-            <li>Large Language Models for Narrative Detection: I explore how LLMs can be used to detect, cluster, and interpret disinformation narratives. My research compares multiple LLM models to assess their ability to identify narrative patterns. </li>
+            <li>Large Language Models for Narrative analysis: clustering, classification, time-series analysis of social media messages to identify emerging trends. </li>
         </ul>
 
         <!-- Publications Section -->
         <h2 id="publications">Publications</h2>
-        <hr>
+        <hr> PhD thesis: Effective Fake News Mitigation: Integrating XAI, LLMs, and Cognitive Eye-Tracking Analysis, [UQAC, direction : DIM].
 
         <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
