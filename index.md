@@ -258,13 +258,13 @@ My Google Scholar Profile</a></li>
     <div class="main-content">
         
         <h1>Rachel Ladouceur</h1>
-        <div class="subtitle">PhD  | Academic Lecturer | CPA, CISA</div>
+        <div class="subtitle">Ph.D in Computer Science | Academic Lecturer | Disinformation, LLMs </div>
         
         <!-- About Me Section -->
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, PhD in Computer Science, CPA, CISA, is a researcher, lecturer, and professional specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time since 2022 (UQAC, Unitech Haïti).
+            Rachel Ladouceur, PhD in Computer Science, CPA, CISA, is a researcher, and lecturer, specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time since 2022 (UQAC, Unitech Haïti).
         </p>
 
         <!-- Research Interests Section -->
@@ -272,7 +272,7 @@ My Google Scholar Profile</a></li>
         <hr>
         <ul class="custom-list">
             <li>Disinformation Analysis: I investigate how misleading or manipulative content circulates across digital platforms by analyzing linguistic cues, rhetorical strategies, and contextual signals embedded in messages.  </li>
-            <li>Narrative-level disinformation patterns: I study disinformation as a narrative phenomenon, examining how falsehoods propagate through recurring themes, interpretive frames, and discursive patterns rather than isolated messages.</li>
+          
             <li>Large Language Models for Narrative analysis: clustering, classification, time-series analysis of social media messages to identify emerging trends. </li>
         </ul>
 
