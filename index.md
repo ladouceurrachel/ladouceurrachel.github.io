@@ -277,9 +277,8 @@ My Google Scholar Profile</a></li>
              <li>
              <strong>Disinformation and Narrative Intelligence:</strong> Detection, characterization, and monitoring of disinformation narratives through computational methods, with a focus on narrative evolution, amplification mechanisms, and societal impacts.
             </li>
- 
             <li>
-            <strong>Explainable Artificial Intelligence (XAI):</strong>Development of interpretable AI approaches that increase transparency and trust in machine learning systems used for cybersecurity and information operations analysis.
+            <strong>Explainable Artificial Intelligence (XAI):</strong> Development of interpretable AI approaches that increase transparency and trust in machine learning systems used for cybersecurity and information operations analysis.
             </li>
 
         </ul>
@@ -341,9 +340,9 @@ My Google Scholar Profile</a></li>
 
         <ul class="teaching-list">
             <li>
-                <strong>Support to student for the final project in cybersecurity</strong> <br>
+                <strong>Atelier - project in cybersecurity</strong> <br>
                 <em>Université de technologie d’Haïti</em> | Automn 2026 (Current) <br>
-                5 projects of 10 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
+                5 projects. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
             </li>
             <li>
                 <strong>GCGR2010 — Security Governance and Risk Management</strong> <br>
