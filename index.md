@@ -258,24 +258,29 @@ My Google Scholar Profile</a></li>
     <div class="main-content">
         
         <h1>Rachel Ladouceur</h1>
-        <div class="subtitle">Ph.D in Computer Science | Academic Lecturer | Disinformation, LLMs </div>
+        <div class="subtitle">Ph.D in Computer Science | Academic Lecturer | Cybersecurity, Disinformation, LLMs and XAI </div>
         
         <!-- About Me Section -->
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, PhD in Computer Science, CPA, CISA, is a researcher, and lecturer, specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time since 2022 (UQAC, Unitech Haïti).
+            Rachel Ladouceur, PhD in Computer Science, CPA, CISA, is a researcher, and lecturer, specializing in disinformation analysis and cybersecurity. Her work uses large language models (LLMs) to analyze social media messages in order to detect events of concern to government. This includes clustering and classifying messages, analyzing narratives, and identifying emerging trends through time-series analysis. She works part-time at the Defence Research and Development Canada (DRDC) and also teaches part-time since 2022.
         </p>
 
         <!-- Research Interests Section -->
         <h2>Research Interests</h2>
         <hr>
         <ul class="custom-list">
-            <li>Foreign Information Manipulation and Interference (FIMI):** at Defence Research and Development Canada (DRDC), I use large language models to detect FIMI, with a focus on coordinated manipulative behaviour. I combine narrative analysis, time-series analysis, and the study of actors and behaviors to support strategic decision-making.
-            </li>   
             <li>
-            LLMs for narrative analysis:** clustering and classifying social media messages, and identifying emerging trends.. </li>
-            L’explication au niveau des campagnes (FIMI). Au lieu d’expliquer pourquoi un message est trompeur, on explique pourquoi un ensemble de messages est jugé coordonné : similarité des narratifs, synchronisation temporelle, réseau d’acteurs, comportements répétés.    </li> 
+            <strong>Foreign Information Manipulation and Interference (FIMI) detection</strong>:  Development of analytical frameworks that integrate narrative analysis, temporal dynamics, actor networks, and behavioral indicators to identify coordinated influence operations and support strategic decision-making in government and defence contexts.
+            </li>   
+            <strong>Disinformation and Narrative Intelligence:</strong>Detection, characterization, and monitoring of disinformation narratives through computational methods, with a focus on narrative evolution, amplification mechanisms, and societal impacts.
+            </li>
+ 
+            <li>
+            <strong>Explainable Artificial Intelligence (XAI):</strong>Development of interpretable AI approaches that increase transparency and trust in machine learning systems used for cybersecurity and information operations analysis.
+            </li>
+
         </ul>
 
         <!-- Publications Section -->
@@ -285,11 +290,9 @@ My Google Scholar Profile</a></li>
         <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
             <li>
-                <strong>Ladouceur, R. </strong> et al. (2026). Comparison between topic modelling tools and LLMs for narrative analysis. Defence Research and Development Canada (DRDC). Classified report; title unclassified.
+                <strong>Ladouceur, R. </strong> et al. (2026). Comparison between topic modelling tools and LLMs for narrative analysis. Classified report; title unclassified.
             </li>   
-            <li>
-                <strong>Co-authors of two articles </strong> to other publications under DRDC, 2026.   
-            </li> 
+            
         </ul>
            
         <h3>Articles Submitted</h3>
