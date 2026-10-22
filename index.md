@@ -275,7 +275,7 @@ My Google Scholar Profile</a></li>
             </li>   
             <li>
             LLMs for narrative analysis:** clustering and classifying social media messages, and identifying emerging trends.. </li>
-            </li> 
+            L’explication au niveau des campagnes (FIMI). Au lieu d’expliquer pourquoi un message est trompeur, on explique pourquoi un ensemble de messages est jugé coordonné : similarité des narratifs, synchronisation temporelle, réseau d’acteurs, comportements répétés.    </li> 
         </ul>
 
         <!-- Publications Section -->
