@@ -285,7 +285,7 @@ My Google Scholar Profile</a></li>
 
         <!-- Publications Section -->
         <h2 id="publications">Publications</h2>
-        <hr> PhD thesis: Effective Fake News Mitigation: Integrating XAI, LLMs, and Cognitive Eye-Tracking Analysis, [UQAC, direction : DIM].
+        <hr>  <strong> PhD thesis  </strong> (2026): Effective Fake News Mitigation: Integrating XAI, LLMs, and Cognitive Eye-Tracking Analysis, UQAC.
 
         <h3>Scientific reports classified under DRDC</h3>
         <ul class="publication-list">
