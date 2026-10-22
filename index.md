@@ -274,7 +274,8 @@ My Google Scholar Profile</a></li>
             <li>
             <strong>Foreign Information Manipulation and Interference (FIMI) detection</strong>:  Development of analytical frameworks that integrate narrative analysis, temporal dynamics, actor networks, and behavioral indicators to identify coordinated influence operations and support strategic decision-making in government and defence contexts.
             </li>   
-            <strong>Disinformation and Narrative Intelligence:</strong>Detection, characterization, and monitoring of disinformation narratives through computational methods, with a focus on narrative evolution, amplification mechanisms, and societal impacts.
+             <li>
+             <strong>Disinformation and Narrative Intelligence:</strong> Detection, characterization, and monitoring of disinformation narratives through computational methods, with a focus on narrative evolution, amplification mechanisms, and societal impacts.
             </li>
  
             <li>
